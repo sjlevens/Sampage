@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "projectName": "The Complete JavaScript Course 2018: Build Real Projects!",
+        "link": "https://www.udemy.com/certificate/UC-QJXWRUED/",
+        "img": "UC-QJXWRUED.jpg",
+        "language": "JavaScript, Node.js",
+        "date": "12/30/2018",
+        "description": "This certificate above verifies that Sam Levens successfully completed the course The Complete JavaScript Course 2018: Build Real Projects! on 12/30/2018 as taught by Jonas Schmedtmann on Udemy. The certificate indicates the entire course was completed as validated by the student."
+    },
+    {
+        "id": "1",
+        "projectName": "Microsoft Excel - Excel from Beginner to Advanced",
+        "link": "https://www.udemy.com/certificate/UC-VNY2W7SU/",
+        "img": "UC-VNY2W7SU.jpg",
+        "language": "Excel, VBA",
+        "date": "04/15/2018",
+        "description": "This certificate above verifies that Sam Levens successfully completed the course Microsoft Excel - Excel from Beginner to Advanced on 12/30/2018 as taught by Kyle Pew on Udemy. The certificate indicates the entire course was completed as validated by the student."
+    }
+]
