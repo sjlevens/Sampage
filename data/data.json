@@ -5,7 +5,7 @@
         "link": "https://www.udemy.com/certificate/UC-QJXWRUED/",
         "img": "UC-QJXWRUED.jpg",
         "language": "JavaScript, Node.js",
-        "date": "12/30/2018",
+        "date": "30/12/2018",
         "description": "This certificate above verifies that Sam Levens successfully completed the course The Complete JavaScript Course 2018: Build Real Projects! on 12/30/2018 as taught by Jonas Schmedtmann on Udemy. The certificate indicates the entire course was completed as validated by the student."
     },
     {
@@ -14,7 +14,16 @@
         "link": "https://www.udemy.com/certificate/UC-VNY2W7SU/",
         "img": "UC-VNY2W7SU.jpg",
         "language": "Excel, VBA",
-        "date": "04/15/2018",
+        "date": "15/04/2018",
         "description": "This certificate above verifies that Sam Levens successfully completed the course Microsoft Excel - Excel from Beginner to Advanced on 12/30/2018 as taught by Kyle Pew on Udemy. The certificate indicates the entire course was completed as validated by the student."
+    },
+    {
+        "id": "2",
+        "projectName": "Jes-a-Re",
+        "link": "https://www.google.com",
+        "img": "20181020_192119.jpg",
+        "language": "Love",
+        "date": "01/02/2019",
+        "description": "I love Jesre"
     }
 ]
